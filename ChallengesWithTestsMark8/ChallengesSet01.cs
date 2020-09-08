@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Immutable;
+using System.Runtime.InteropServices.WindowsRuntime;
 
 namespace ChallengesWithTestsMark8
 {
@@ -18,32 +20,59 @@ namespace ChallengesWithTestsMark8
 
         public double Subtract(double minuend, double subtrahend)
         {
-            throw new NotImplementedException();
+            double result = minuend - subtrahend;
+             
+            return result;
         }
 
         public int Add(int number1, int number2)
         {
-            throw new NotImplementedException();
+
+            int sum = number1 + number2;
+            return sum;
         }
 
         public int GetSmallestNumber(int number1, int number2)
         {
-            throw new NotImplementedException();
+            int smallestNumber = 0;
+            int[] a = new int[2];
+            a[0] = number1;
+            a[1] = number2;
+            Array.Sort(a);
+            smallestNumber = a[0];
+            return smallestNumber;
+
         }
 
         public long Multiply(long factor1, long factor2)
         {
-            throw new NotImplementedException();
+            var mult = factor1 * factor2;
+            return mult;
         }
 
-        public string GetGreeting(string nameOfPerson)
+        public string GetGreeting(String nameOfPerson)
         {
-            throw new NotImplementedException();
+            
+
+          if (string.IsNullOrEmpty(nameOfPerson))
+            {
+                return "Hello!";
+            }
+          else 
+            {
+                var greetings = "Hello, " + nameOfPerson + "!";
+                return greetings;
+            }
+            
+
+           
         }
 
         public string GetHey()
         {
-            throw new NotImplementedException();
+
+            var hey = "HEY!";
+            return hey;
         }
     }
 }

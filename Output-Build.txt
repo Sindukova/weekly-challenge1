@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: ChallengesWithTestsMark8, Configuration: Debug Any CPU ------
+1>ChallengesWithTestsMark8 -> C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+2>------ Build started: Project: ChallengesWithTestsMark8.Tests, Configuration: Debug Any CPU ------
+2>ChallengesWithTestsMark8.Tests -> C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.dll
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
