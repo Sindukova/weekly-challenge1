@@ -46,10 +46,10 @@ C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\bi
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
-C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
 C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\Users\Sindu\repos\WeeklyChallengeWeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
